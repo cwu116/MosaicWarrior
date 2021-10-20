@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - FakeLayer
+  - TrueLayer
+  - Layer1
+  - Layer2
+  - Red
+  - Green
+  - Hook
+  - Player2Hook
+  - Player1Hook
+  - Player2
+  - Player1
+  - GameManager
+  - Data
+  - HotDog
+  - Drink
+  - P2Hp
+  - P1Hp
+  - Rock
+  - P1text
+  - P2text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FakeLayer
+  - TrueLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

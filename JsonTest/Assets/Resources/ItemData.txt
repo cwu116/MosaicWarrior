@@ -1,0 +1,39 @@
+{   
+    "1001": {
+        "ID": "1001",
+        "Type": "1",
+        "Name": "锤子",
+        "Attack": "75",
+        "Crit": "0.5",
+        "ModelPath": "Model/Capsule",
+        "ImagePath": "Image/ChuiZi"
+    },
+   "1002": {
+        "ID": "1002",
+        "Type": "1",
+        "Name": "斧头",
+        "Attack": "60",
+        "Crit": "0.8",
+        "ModelPath": "Model/Cube",
+        "ImagePath": "Image/FuTou"
+    },
+    "1003": {
+        "ID": "1003",
+        "Type": "1",
+        "Name": "剑",
+        "Attack": "50",
+        "Crit": "0.2",
+        "Defense": "0",
+        "ModelPath": "Model/Cylinder",
+        "ImagePath": "Image/Clothing1"
+    },
+    "1004": {
+        "ID": "1004",
+        "Type": "2",
+        "Name": "绿衣",
+        "Defense": "100",
+        "Dodge": "0.2",
+        "ModelPath": "Model/Sphere",
+        "ImagePath": "Image/Clothing2"
+    }
+}
